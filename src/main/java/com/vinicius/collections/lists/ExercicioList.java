@@ -31,6 +31,8 @@ public class ExercicioList {
             Double next = iterator.next();
                     soma += next;
         }
+        System.out.println(notas);
+        System.out.println(soma);
 
     }
 }
