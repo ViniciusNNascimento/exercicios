@@ -6,6 +6,7 @@ public class Ex6_Fatorial {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
+
         System.out.println("Fatorial: ");
         int fatorial = scan.nextInt();
         int multiplica = 1;
@@ -15,6 +16,9 @@ public class Ex6_Fatorial {
             System.out.println("Fatorial de " + fatorial + " eh: " + multiplica);
 
 
+
+
     }
+
 
 }
