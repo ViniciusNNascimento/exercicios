@@ -1,4 +1,4 @@
-package com.vinicius.estruturasdados.pilha;
+package com.vinicius.estruturasdados.stack;
 
 import java.util.Stack;
 
